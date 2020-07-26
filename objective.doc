@@ -1,0 +1,12 @@
+objectives of app:
+    1.Signin and Signout
+    2.Profile Page of User
+    3.Password Reset of User
+    4.Sign in Google or email/Password
+
+Components:-
+ 1.Main App Component
+ 2.Password Reset Component
+ 3.Profile Page Component
+ 4. Signin Component (login)
+ 5.SignUp Component (Register)
